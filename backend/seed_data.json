@@ -1,0 +1,1850 @@
+{
+  "profile": {
+    "user_id": "student_sachin",
+    "activities": [
+      {
+        "type": "diagnostic",
+        "detail": "Completed initial diagnostic",
+        "date": "2026-06-06"
+      }
+    ],
+    "badges": [
+      "First Concept Mastered",
+      "7 Day Streak",
+      "Adaptive Learner"
+    ],
+    "baseline": {
+      "python_basics": 95,
+      "variables": 91,
+      "data_types": 84,
+      "operators": 80,
+      "conditions": 78,
+      "loops": 87,
+      "lists": 82,
+      "tuples": 60,
+      "dictionaries": 68,
+      "functions": 51,
+      "parameters": 70,
+      "return_values": 38,
+      "scope": 62,
+      "lambda": 30,
+      "recursion": 24,
+      "oop": 24,
+      "physics__cbse__10__light": 68,
+      "physics__cbse__10__electricity": 42,
+      "maths__cbse__10__real-numbers": 75,
+      "maths__cbse__10__quadratic": 40
+    },
+    "course": "python",
+    "created_at": "2026-09-26T06:38:48.157507+00:00",
+    "history": [
+      {
+        "date": "2026-05-25",
+        "overall": 48
+      },
+      {
+        "date": "2026-05-29",
+        "overall": 53
+      },
+      {
+        "date": "2026-06-02",
+        "overall": 57
+      },
+      {
+        "date": "2026-06-06",
+        "overall": 60
+      },
+      {
+        "date": "2026-06-09",
+        "overall": 62
+      },
+      {
+        "date": "2026-06-12",
+        "overall": 64
+      }
+    ],
+    "mastery": {
+      "python_basics": {
+        "score": 95,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "variables": {
+        "score": 91,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "data_types": {
+        "score": 84,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "operators": {
+        "score": 80,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "conditions": {
+        "score": 78,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "loops": {
+        "score": 87,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "lists": {
+        "score": 82,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "tuples": {
+        "score": 60,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "dictionaries": {
+        "score": 68,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "functions": {
+        "score": 51,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "parameters": {
+        "score": 70,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "return_values": {
+        "score": 38,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "scope": {
+        "score": 62,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "lambda": {
+        "score": 30,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "recursion": {
+        "score": 24,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "oop": {
+        "score": 24,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "physics__cbse__10__light": {
+        "score": 68,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "physics__cbse__10__electricity": {
+        "score": 42,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "maths__cbse__10__real-numbers": {
+        "score": 75,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      },
+      "maths__cbse__10__quadratic": {
+        "score": 40,
+        "attempts": 0,
+        "correct": 0,
+        "recent": [],
+        "last_attempted": null
+      }
+    },
+    "misconceptions": {
+      "confusing_print_and_return": {
+        "concept": "return_values",
+        "count": 4,
+        "label": "Confusing print() with return",
+        "confidence": "High"
+      },
+      "missing_base_case": {
+        "concept": "recursion",
+        "count": 2,
+        "label": "Forgetting the recursion base case",
+        "confidence": "Medium"
+      }
+    },
+    "name": "Sachin",
+    "preferences": {
+      "language": "hinglish",
+      "explanation_style": "examples + visual",
+      "level": "intermediate",
+      "theme": "light"
+    },
+    "recent_mistakes": [
+      {
+        "concept": "return_values",
+        "label": "Confused print() with return",
+        "date": "2026-06-11"
+      },
+      {
+        "concept": "return_values",
+        "label": "Assumed a function returns the last printed line",
+        "date": "2026-06-10"
+      },
+      {
+        "concept": "recursion",
+        "label": "Missing base case in recursive function",
+        "date": "2026-06-10"
+      },
+      {
+        "concept": "functions",
+        "label": "Called function without using its result",
+        "date": "2026-06-09"
+      },
+      {
+        "concept": "recursion",
+        "label": "Confused recursive call order",
+        "date": "2026-06-08"
+      },
+      {
+        "concept": "return_values",
+        "label": "Thought print output could be stored in a variable",
+        "date": "2026-06-08"
+      }
+    ],
+    "streak": 7,
+    "updated_at": "2026-09-26T07:53:31.685678+00:00",
+    "xp": 2450,
+    "class_id": "demo-class",
+    "notes_plan": [],
+    "overall_mastery": 64,
+    "strong": [
+      {
+        "concept": "python_basics",
+        "name": "Python Basics",
+        "mastery": 95
+      },
+      {
+        "concept": "variables",
+        "name": "Variables",
+        "mastery": 91
+      },
+      {
+        "concept": "loops",
+        "name": "Loops",
+        "mastery": 87
+      },
+      {
+        "concept": "data_types",
+        "name": "Data Types",
+        "mastery": 84
+      },
+      {
+        "concept": "lists",
+        "name": "Lists",
+        "mastery": 82
+      }
+    ],
+    "weak": [
+      {
+        "concept": "recursion",
+        "name": "Recursion",
+        "mastery": 24
+      },
+      {
+        "concept": "oop",
+        "name": "Object-Oriented Programming",
+        "mastery": 24
+      },
+      {
+        "concept": "lambda",
+        "name": "Lambda",
+        "mastery": 30
+      },
+      {
+        "concept": "return_values",
+        "name": "Return Values",
+        "mastery": 38
+      },
+      {
+        "concept": "functions",
+        "name": "Functions",
+        "mastery": 51
+      }
+    ],
+    "concepts_mastered": 7,
+    "concepts_needing_attention": 5,
+    "recommendation": {
+      "concept": "return_values",
+      "concept_name": "Return Values",
+      "target": "recursion",
+      "target_name": "Recursion",
+      "path": [
+        "return_values",
+        "functions",
+        "recursion"
+      ],
+      "path_names": [
+        "Return Values",
+        "Functions",
+        "Recursion"
+      ],
+      "reason": "You're attempting Recursion (24%), but its prerequisite Return Values is only 38%. 3 of your recent mistakes trace back to Return Values. Strengthening Return Values first will make Recursion click into place.",
+      "prerequisite_for": [
+        "Lambda",
+        "Recursion"
+      ],
+      "expected_benefit": "Prepares you for Recursion and unlocks the rest of that path.",
+      "mistake_count": 3
+    },
+    "course_name": "Python Programming",
+    "course_info": {
+      "id": "python",
+      "subject": "python",
+      "subject_name": "Python Programming",
+      "board": null,
+      "board_name": null,
+      "standard": null,
+      "name": "Python Programming",
+      "concept_ids": [
+        "python_basics",
+        "variables",
+        "data_types",
+        "operators",
+        "conditions",
+        "loops",
+        "lists",
+        "tuples",
+        "dictionaries",
+        "functions",
+        "parameters",
+        "return_values",
+        "scope",
+        "lambda",
+        "recursion",
+        "oop"
+      ]
+    },
+    "email": "sachin@learntwin.ai"
+  },
+  "recommendation": {
+    "concept": "return_values",
+    "concept_name": "Return Values",
+    "target": "recursion",
+    "target_name": "Recursion",
+    "path": [
+      "return_values",
+      "functions",
+      "recursion"
+    ],
+    "path_names": [
+      "Return Values",
+      "Functions",
+      "Recursion"
+    ],
+    "reason": "You're attempting Recursion (24%), but its prerequisite Return Values is only 38%. 3 of your recent mistakes trace back to Return Values. Strengthening Return Values first will make Recursion click into place.",
+    "prerequisite_for": [
+      "Lambda",
+      "Recursion"
+    ],
+    "expected_benefit": "Prepares you for Recursion and unlocks the rest of that path.",
+    "mistake_count": 3
+  },
+  "insight": {
+    "insight": "With your excellent grasp of loops, your biggest lever is mastering return values, which will transform your understanding of recursion by showing you exactly how results pass through each layer of a function call."
+  },
+  "learning_path": {
+    "path": [
+      {
+        "concept": "return_values",
+        "name": "Return Values",
+        "mastery": 38,
+        "status": "weak",
+        "current": true,
+        "order": 1
+      },
+      {
+        "concept": "functions",
+        "name": "Functions",
+        "mastery": 51,
+        "status": "developing",
+        "current": false,
+        "order": 2
+      },
+      {
+        "concept": "recursion",
+        "name": "Recursion",
+        "mastery": 24,
+        "status": "weak",
+        "current": false,
+        "order": 3
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "nodes": [
+      {
+        "id": "python_basics",
+        "name": "Python Basics",
+        "category": "Foundations",
+        "mastery": 95,
+        "status": "mastered",
+        "description": "Syntax, printing, running programs.",
+        "why": "Everything in Python builds on understanding how programs run.",
+        "prereqs": [],
+        "prerequisite_for": [
+          "variables"
+        ],
+        "depth": 0
+      },
+      {
+        "id": "variables",
+        "name": "Variables",
+        "category": "Foundations",
+        "mastery": 91,
+        "status": "mastered",
+        "description": "Storing and naming values.",
+        "why": "Variables hold the data every later concept manipulates.",
+        "prereqs": [
+          "python_basics"
+        ],
+        "prerequisite_for": [
+          "data_types",
+          "operators",
+          "lists",
+          "functions"
+        ],
+        "depth": 1
+      },
+      {
+        "id": "data_types",
+        "name": "Data Types",
+        "category": "Foundations",
+        "mastery": 84,
+        "status": "mastered",
+        "description": "int, float, str, bool and conversions.",
+        "why": "Knowing types prevents subtle bugs in conditions and math.",
+        "prereqs": [
+          "variables"
+        ],
+        "prerequisite_for": [
+          "conditions",
+          "lists"
+        ],
+        "depth": 2
+      },
+      {
+        "id": "operators",
+        "name": "Operators",
+        "category": "Foundations",
+        "mastery": 80,
+        "status": "mastered",
+        "description": "Arithmetic, comparison, logical operators.",
+        "why": "Operators are the building blocks of conditions and loops.",
+        "prereqs": [
+          "variables"
+        ],
+        "prerequisite_for": [
+          "conditions"
+        ],
+        "depth": 2
+      },
+      {
+        "id": "conditions",
+        "name": "Conditions",
+        "category": "Control Flow",
+        "mastery": 78,
+        "status": "mastered",
+        "description": "if / elif / else branching.",
+        "why": "Decision making is required for any non-trivial program.",
+        "prereqs": [
+          "operators",
+          "data_types"
+        ],
+        "prerequisite_for": [
+          "loops"
+        ],
+        "depth": 3
+      },
+      {
+        "id": "loops",
+        "name": "Loops",
+        "category": "Control Flow",
+        "mastery": 87,
+        "status": "mastered",
+        "description": "for and while iteration.",
+        "why": "Loops let you process collections and repeat work.",
+        "prereqs": [
+          "conditions"
+        ],
+        "prerequisite_for": [],
+        "depth": 4
+      },
+      {
+        "id": "lists",
+        "name": "Lists",
+        "category": "Data Structures",
+        "mastery": 82,
+        "status": "mastered",
+        "description": "Ordered mutable collections.",
+        "why": "Lists are the most used container and power iteration.",
+        "prereqs": [
+          "variables",
+          "data_types"
+        ],
+        "prerequisite_for": [
+          "tuples",
+          "dictionaries"
+        ],
+        "depth": 3
+      },
+      {
+        "id": "tuples",
+        "name": "Tuples",
+        "category": "Data Structures",
+        "mastery": 60,
+        "status": "developing",
+        "description": "Immutable ordered collections.",
+        "why": "Tuples model fixed records and safe grouped return values.",
+        "prereqs": [
+          "lists"
+        ],
+        "prerequisite_for": [],
+        "depth": 4
+      },
+      {
+        "id": "dictionaries",
+        "name": "Dictionaries",
+        "category": "Data Structures",
+        "mastery": 68,
+        "status": "developing",
+        "description": "Key-value mappings.",
+        "why": "Dictionaries enable fast lookups and structured data.",
+        "prereqs": [
+          "lists"
+        ],
+        "prerequisite_for": [
+          "oop"
+        ],
+        "depth": 4
+      },
+      {
+        "id": "functions",
+        "name": "Functions",
+        "category": "Functions",
+        "mastery": 51,
+        "status": "developing",
+        "description": "Defining and calling reusable blocks.",
+        "why": "Functions organise logic and are the base of return values & recursion.",
+        "prereqs": [
+          "variables"
+        ],
+        "prerequisite_for": [
+          "parameters",
+          "return_values",
+          "scope",
+          "lambda",
+          "recursion",
+          "oop"
+        ],
+        "depth": 2
+      },
+      {
+        "id": "parameters",
+        "name": "Parameters",
+        "category": "Functions",
+        "mastery": 70,
+        "status": "developing",
+        "description": "Passing arguments into functions.",
+        "why": "Parameters make functions flexible and reusable.",
+        "prereqs": [
+          "functions"
+        ],
+        "prerequisite_for": [],
+        "depth": 3
+      },
+      {
+        "id": "return_values",
+        "name": "Return Values",
+        "category": "Functions",
+        "mastery": 38,
+        "status": "recommended",
+        "description": "Sending results back with return.",
+        "why": "Return values are the direct prerequisite for recursion.",
+        "prereqs": [
+          "functions"
+        ],
+        "prerequisite_for": [
+          "lambda",
+          "recursion"
+        ],
+        "depth": 3
+      },
+      {
+        "id": "scope",
+        "name": "Scope",
+        "category": "Functions",
+        "mastery": 62,
+        "status": "developing",
+        "description": "Local vs global variable visibility.",
+        "why": "Scope explains why variables behave differently inside functions.",
+        "prereqs": [
+          "functions"
+        ],
+        "prerequisite_for": [],
+        "depth": 3
+      },
+      {
+        "id": "lambda",
+        "name": "Lambda",
+        "category": "Functions",
+        "mastery": 30,
+        "status": "weak",
+        "description": "Anonymous inline functions.",
+        "why": "Lambdas rely on understanding functions that return values.",
+        "prereqs": [
+          "functions",
+          "return_values"
+        ],
+        "prerequisite_for": [],
+        "depth": 4
+      },
+      {
+        "id": "recursion",
+        "name": "Recursion",
+        "category": "Advanced",
+        "mastery": 24,
+        "status": "weak",
+        "description": "A function calling itself.",
+        "why": "Recursion depends entirely on correct return values and base cases.",
+        "prereqs": [
+          "functions",
+          "return_values"
+        ],
+        "prerequisite_for": [],
+        "depth": 4
+      },
+      {
+        "id": "oop",
+        "name": "Object-Oriented Programming",
+        "category": "Advanced",
+        "mastery": 24,
+        "status": "weak",
+        "description": "Classes, objects, methods.",
+        "why": "OOP composes functions and data structures into larger designs.",
+        "prereqs": [
+          "functions",
+          "dictionaries"
+        ],
+        "prerequisite_for": [],
+        "depth": 5
+      }
+    ],
+    "edges": [
+      {
+        "from": "python_basics",
+        "to": "variables"
+      },
+      {
+        "from": "variables",
+        "to": "data_types"
+      },
+      {
+        "from": "variables",
+        "to": "operators"
+      },
+      {
+        "from": "operators",
+        "to": "conditions"
+      },
+      {
+        "from": "data_types",
+        "to": "conditions"
+      },
+      {
+        "from": "conditions",
+        "to": "loops"
+      },
+      {
+        "from": "variables",
+        "to": "lists"
+      },
+      {
+        "from": "data_types",
+        "to": "lists"
+      },
+      {
+        "from": "lists",
+        "to": "tuples"
+      },
+      {
+        "from": "lists",
+        "to": "dictionaries"
+      },
+      {
+        "from": "variables",
+        "to": "functions"
+      },
+      {
+        "from": "functions",
+        "to": "parameters"
+      },
+      {
+        "from": "functions",
+        "to": "return_values"
+      },
+      {
+        "from": "functions",
+        "to": "scope"
+      },
+      {
+        "from": "functions",
+        "to": "lambda"
+      },
+      {
+        "from": "return_values",
+        "to": "lambda"
+      },
+      {
+        "from": "functions",
+        "to": "recursion"
+      },
+      {
+        "from": "return_values",
+        "to": "recursion"
+      },
+      {
+        "from": "functions",
+        "to": "oop"
+      },
+      {
+        "from": "dictionaries",
+        "to": "oop"
+      }
+    ]
+  },
+  "concepts": [
+    {
+      "id": "python_basics",
+      "name": "Python Basics",
+      "category": "Foundations",
+      "prereqs": [],
+      "description": "Syntax, printing, running programs.",
+      "why": "Everything in Python builds on understanding how programs run.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 95,
+      "status": "mastered"
+    },
+    {
+      "id": "variables",
+      "name": "Variables",
+      "category": "Foundations",
+      "prereqs": [
+        "python_basics"
+      ],
+      "description": "Storing and naming values.",
+      "why": "Variables hold the data every later concept manipulates.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 91,
+      "status": "mastered"
+    },
+    {
+      "id": "data_types",
+      "name": "Data Types",
+      "category": "Foundations",
+      "prereqs": [
+        "variables"
+      ],
+      "description": "int, float, str, bool and conversions.",
+      "why": "Knowing types prevents subtle bugs in conditions and math.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 84,
+      "status": "mastered"
+    },
+    {
+      "id": "operators",
+      "name": "Operators",
+      "category": "Foundations",
+      "prereqs": [
+        "variables"
+      ],
+      "description": "Arithmetic, comparison, logical operators.",
+      "why": "Operators are the building blocks of conditions and loops.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 80,
+      "status": "mastered"
+    },
+    {
+      "id": "conditions",
+      "name": "Conditions",
+      "category": "Control Flow",
+      "prereqs": [
+        "operators",
+        "data_types"
+      ],
+      "description": "if / elif / else branching.",
+      "why": "Decision making is required for any non-trivial program.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 78,
+      "status": "mastered"
+    },
+    {
+      "id": "loops",
+      "name": "Loops",
+      "category": "Control Flow",
+      "prereqs": [
+        "conditions"
+      ],
+      "description": "for and while iteration.",
+      "why": "Loops let you process collections and repeat work.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 87,
+      "status": "mastered"
+    },
+    {
+      "id": "lists",
+      "name": "Lists",
+      "category": "Data Structures",
+      "prereqs": [
+        "variables",
+        "data_types"
+      ],
+      "description": "Ordered mutable collections.",
+      "why": "Lists are the most used container and power iteration.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 82,
+      "status": "mastered"
+    },
+    {
+      "id": "tuples",
+      "name": "Tuples",
+      "category": "Data Structures",
+      "prereqs": [
+        "lists"
+      ],
+      "description": "Immutable ordered collections.",
+      "why": "Tuples model fixed records and safe grouped return values.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 60,
+      "status": "developing"
+    },
+    {
+      "id": "dictionaries",
+      "name": "Dictionaries",
+      "category": "Data Structures",
+      "prereqs": [
+        "lists"
+      ],
+      "description": "Key-value mappings.",
+      "why": "Dictionaries enable fast lookups and structured data.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 68,
+      "status": "developing"
+    },
+    {
+      "id": "functions",
+      "name": "Functions",
+      "category": "Functions",
+      "prereqs": [
+        "variables"
+      ],
+      "description": "Defining and calling reusable blocks.",
+      "why": "Functions organise logic and are the base of return values & recursion.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 51,
+      "status": "developing"
+    },
+    {
+      "id": "parameters",
+      "name": "Parameters",
+      "category": "Functions",
+      "prereqs": [
+        "functions"
+      ],
+      "description": "Passing arguments into functions.",
+      "why": "Parameters make functions flexible and reusable.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 70,
+      "status": "developing"
+    },
+    {
+      "id": "return_values",
+      "name": "Return Values",
+      "category": "Functions",
+      "prereqs": [
+        "functions"
+      ],
+      "description": "Sending results back with return.",
+      "why": "Return values are the direct prerequisite for recursion.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 38,
+      "status": "weak"
+    },
+    {
+      "id": "scope",
+      "name": "Scope",
+      "category": "Functions",
+      "prereqs": [
+        "functions"
+      ],
+      "description": "Local vs global variable visibility.",
+      "why": "Scope explains why variables behave differently inside functions.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 62,
+      "status": "developing"
+    },
+    {
+      "id": "lambda",
+      "name": "Lambda",
+      "category": "Functions",
+      "prereqs": [
+        "functions",
+        "return_values"
+      ],
+      "description": "Anonymous inline functions.",
+      "why": "Lambdas rely on understanding functions that return values.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 30,
+      "status": "weak"
+    },
+    {
+      "id": "recursion",
+      "name": "Recursion",
+      "category": "Advanced",
+      "prereqs": [
+        "functions",
+        "return_values"
+      ],
+      "description": "A function calling itself.",
+      "why": "Recursion depends entirely on correct return values and base cases.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 24,
+      "status": "weak"
+    },
+    {
+      "id": "oop",
+      "name": "Object-Oriented Programming",
+      "category": "Advanced",
+      "prereqs": [
+        "functions",
+        "dictionaries"
+      ],
+      "description": "Classes, objects, methods.",
+      "why": "OOP composes functions and data structures into larger designs.",
+      "course": "python",
+      "subject": "python",
+      "mastery": 24,
+      "status": "weak"
+    }
+  ],
+  "gaps": [
+    {
+      "concept": "return_values",
+      "concept_name": "Return Values",
+      "concept_mastery": 38,
+      "prerequisite": "functions",
+      "prerequisite_name": "Functions",
+      "prerequisite_mastery": 51
+    },
+    {
+      "concept": "lambda",
+      "concept_name": "Lambda",
+      "concept_mastery": 30,
+      "prerequisite": "return_values",
+      "prerequisite_name": "Return Values",
+      "prerequisite_mastery": 38
+    },
+    {
+      "concept": "recursion",
+      "concept_name": "Recursion",
+      "concept_mastery": 24,
+      "prerequisite": "return_values",
+      "prerequisite_name": "Return Values",
+      "prerequisite_mastery": 38
+    },
+    {
+      "concept": "oop",
+      "concept_name": "Object-Oriented Programming",
+      "concept_mastery": 24,
+      "prerequisite": "functions",
+      "prerequisite_name": "Functions",
+      "prerequisite_mastery": 51
+    }
+  ],
+  "analytics": {
+    "history": [
+      {
+        "date": "2026-05-25",
+        "overall": 48
+      },
+      {
+        "date": "2026-05-29",
+        "overall": 53
+      },
+      {
+        "date": "2026-06-02",
+        "overall": 57
+      },
+      {
+        "date": "2026-06-06",
+        "overall": 60
+      },
+      {
+        "date": "2026-06-09",
+        "overall": 62
+      },
+      {
+        "date": "2026-06-12",
+        "overall": 64
+      }
+    ],
+    "concept_mastery": [
+      {
+        "concept": "Python Basics",
+        "mastery": 95
+      },
+      {
+        "concept": "Variables",
+        "mastery": 91
+      },
+      {
+        "concept": "Data Types",
+        "mastery": 84
+      },
+      {
+        "concept": "Operators",
+        "mastery": 80
+      },
+      {
+        "concept": "Conditions",
+        "mastery": 78
+      },
+      {
+        "concept": "Loops",
+        "mastery": 87
+      },
+      {
+        "concept": "Lists",
+        "mastery": 82
+      },
+      {
+        "concept": "Tuples",
+        "mastery": 60
+      },
+      {
+        "concept": "Dictionaries",
+        "mastery": 68
+      },
+      {
+        "concept": "Functions",
+        "mastery": 51
+      },
+      {
+        "concept": "Parameters",
+        "mastery": 70
+      },
+      {
+        "concept": "Return Values",
+        "mastery": 38
+      },
+      {
+        "concept": "Scope",
+        "mastery": 62
+      },
+      {
+        "concept": "Lambda",
+        "mastery": 30
+      },
+      {
+        "concept": "Recursion",
+        "mastery": 24
+      },
+      {
+        "concept": "Object-Oriented Programming",
+        "mastery": 24
+      }
+    ],
+    "comparison": [],
+    "streak": 7,
+    "xp": 2450,
+    "attempts": 42,
+    "correct": 29,
+    "accuracy": 69,
+    "badges": [
+      "First Concept Mastered",
+      "7 Day Streak",
+      "Adaptive Learner"
+    ]
+  },
+  "diagnostic_questions": [
+    {
+      "id": "q_var_1",
+      "concept": "variables",
+      "difficulty": "easy",
+      "text": "What will `x = 5; y = x; x = 10; print(y)` output?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "Error"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "id": "q_dt_2",
+      "concept": "data_types",
+      "difficulty": "medium",
+      "text": "What does `int('7') + 3` evaluate to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'73'"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "Error"
+        },
+        {
+          "id": "d",
+          "text": "'10'"
+        }
+      ]
+    },
+    {
+      "id": "q_cond_1",
+      "concept": "conditions",
+      "difficulty": "easy",
+      "text": "What prints? `x = 4\nif x > 2:\n    print('big')\nelse:\n    print('small')`",
+      "options": [
+        {
+          "id": "a",
+          "text": "big"
+        },
+        {
+          "id": "b",
+          "text": "small"
+        },
+        {
+          "id": "c",
+          "text": "nothing"
+        },
+        {
+          "id": "d",
+          "text": "Error"
+        }
+      ]
+    },
+    {
+      "id": "q_loop_2",
+      "concept": "loops",
+      "difficulty": "medium",
+      "text": "What is the last value printed by `for i in range(1, 6, 2): print(i)`?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "id": "q_list_1",
+      "concept": "lists",
+      "difficulty": "easy",
+      "text": "What does `[1,2,3][1]` return?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "Error"
+        }
+      ]
+    },
+    {
+      "id": "q_fn_2",
+      "concept": "functions",
+      "difficulty": "medium",
+      "text": "What happens when you call a function that has no explicit return?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It returns 0"
+        },
+        {
+          "id": "b",
+          "text": "It returns None"
+        },
+        {
+          "id": "c",
+          "text": "It returns the last printed value"
+        },
+        {
+          "id": "d",
+          "text": "It raises an error"
+        }
+      ]
+    },
+    {
+      "id": "q_par_2",
+      "concept": "parameters",
+      "difficulty": "medium",
+      "text": "What does `def g(x=2): return x*2` return when called as `g()`?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "Error"
+        }
+      ]
+    },
+    {
+      "id": "q_ret_1",
+      "concept": "return_values",
+      "difficulty": "easy",
+      "text": "What is the output? `def f():\n    print('Hello')\nx = f()\nprint(x)`",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hello then Hello"
+        },
+        {
+          "id": "b",
+          "text": "Hello then None"
+        },
+        {
+          "id": "c",
+          "text": "Hello"
+        },
+        {
+          "id": "d",
+          "text": "None then None"
+        }
+      ]
+    },
+    {
+      "id": "q_rec_1",
+      "concept": "recursion",
+      "difficulty": "medium",
+      "text": "What is essential for a recursive function to stop?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A base case"
+        },
+        {
+          "id": "b",
+          "text": "A print statement"
+        },
+        {
+          "id": "c",
+          "text": "A loop"
+        },
+        {
+          "id": "d",
+          "text": "A global variable"
+        }
+      ]
+    }
+  ],
+  "subjects": {
+    "subjects": [
+      {
+        "id": "python",
+        "name": "Python Programming",
+        "icon": "Code2",
+        "has_levels": false
+      },
+      {
+        "id": "physics",
+        "name": "Physics",
+        "icon": "Atom",
+        "has_levels": true
+      },
+      {
+        "id": "chemistry",
+        "name": "Chemistry",
+        "icon": "FlaskConical",
+        "has_levels": true
+      },
+      {
+        "id": "maths",
+        "name": "Mathematics",
+        "icon": "Sigma",
+        "has_levels": true
+      }
+    ],
+    "boards": [
+      {
+        "id": "cbse",
+        "name": "CBSE"
+      },
+      {
+        "id": "state",
+        "name": "Maharashtra State Board"
+      }
+    ],
+    "standards": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "courses": [
+      {
+        "id": "python",
+        "name": "Python Programming",
+        "subject": "python",
+        "board": null,
+        "standard": null
+      },
+      {
+        "id": "physics__cbse__9",
+        "name": "Physics \u00b7 Class 9 \u00b7 CBSE",
+        "subject": "physics",
+        "board": "cbse",
+        "standard": 9
+      },
+      {
+        "id": "physics__cbse__10",
+        "name": "Physics \u00b7 Class 10 \u00b7 CBSE",
+        "subject": "physics",
+        "board": "cbse",
+        "standard": 10
+      },
+      {
+        "id": "physics__cbse__11",
+        "name": "Physics \u00b7 Class 11 \u00b7 CBSE",
+        "subject": "physics",
+        "board": "cbse",
+        "standard": 11
+      },
+      {
+        "id": "physics__cbse__12",
+        "name": "Physics \u00b7 Class 12 \u00b7 CBSE",
+        "subject": "physics",
+        "board": "cbse",
+        "standard": 12
+      },
+      {
+        "id": "physics__state__9",
+        "name": "Physics \u00b7 Class 9 \u00b7 Maharashtra State Board",
+        "subject": "physics",
+        "board": "state",
+        "standard": 9
+      },
+      {
+        "id": "physics__state__10",
+        "name": "Physics \u00b7 Class 10 \u00b7 Maharashtra State Board",
+        "subject": "physics",
+        "board": "state",
+        "standard": 10
+      },
+      {
+        "id": "physics__state__11",
+        "name": "Physics \u00b7 Class 11 \u00b7 Maharashtra State Board",
+        "subject": "physics",
+        "board": "state",
+        "standard": 11
+      },
+      {
+        "id": "physics__state__12",
+        "name": "Physics \u00b7 Class 12 \u00b7 Maharashtra State Board",
+        "subject": "physics",
+        "board": "state",
+        "standard": 12
+      },
+      {
+        "id": "chemistry__cbse__9",
+        "name": "Chemistry \u00b7 Class 9 \u00b7 CBSE",
+        "subject": "chemistry",
+        "board": "cbse",
+        "standard": 9
+      },
+      {
+        "id": "chemistry__cbse__10",
+        "name": "Chemistry \u00b7 Class 10 \u00b7 CBSE",
+        "subject": "chemistry",
+        "board": "cbse",
+        "standard": 10
+      },
+      {
+        "id": "chemistry__cbse__11",
+        "name": "Chemistry \u00b7 Class 11 \u00b7 CBSE",
+        "subject": "chemistry",
+        "board": "cbse",
+        "standard": 11
+      },
+      {
+        "id": "chemistry__cbse__12",
+        "name": "Chemistry \u00b7 Class 12 \u00b7 CBSE",
+        "subject": "chemistry",
+        "board": "cbse",
+        "standard": 12
+      },
+      {
+        "id": "chemistry__state__9",
+        "name": "Chemistry \u00b7 Class 9 \u00b7 Maharashtra State Board",
+        "subject": "chemistry",
+        "board": "state",
+        "standard": 9
+      },
+      {
+        "id": "chemistry__state__10",
+        "name": "Chemistry \u00b7 Class 10 \u00b7 Maharashtra State Board",
+        "subject": "chemistry",
+        "board": "state",
+        "standard": 10
+      },
+      {
+        "id": "chemistry__state__11",
+        "name": "Chemistry \u00b7 Class 11 \u00b7 Maharashtra State Board",
+        "subject": "chemistry",
+        "board": "state",
+        "standard": 11
+      },
+      {
+        "id": "chemistry__state__12",
+        "name": "Chemistry \u00b7 Class 12 \u00b7 Maharashtra State Board",
+        "subject": "chemistry",
+        "board": "state",
+        "standard": 12
+      },
+      {
+        "id": "maths__cbse__9",
+        "name": "Mathematics \u00b7 Class 9 \u00b7 CBSE",
+        "subject": "maths",
+        "board": "cbse",
+        "standard": 9
+      },
+      {
+        "id": "maths__cbse__10",
+        "name": "Mathematics \u00b7 Class 10 \u00b7 CBSE",
+        "subject": "maths",
+        "board": "cbse",
+        "standard": 10
+      },
+      {
+        "id": "maths__cbse__11",
+        "name": "Mathematics \u00b7 Class 11 \u00b7 CBSE",
+        "subject": "maths",
+        "board": "cbse",
+        "standard": 11
+      },
+      {
+        "id": "maths__cbse__12",
+        "name": "Mathematics \u00b7 Class 12 \u00b7 CBSE",
+        "subject": "maths",
+        "board": "cbse",
+        "standard": 12
+      },
+      {
+        "id": "maths__state__9",
+        "name": "Mathematics \u00b7 Class 9 \u00b7 Maharashtra State Board",
+        "subject": "maths",
+        "board": "state",
+        "standard": 9
+      },
+      {
+        "id": "maths__state__10",
+        "name": "Mathematics \u00b7 Class 10 \u00b7 Maharashtra State Board",
+        "subject": "maths",
+        "board": "state",
+        "standard": 10
+      },
+      {
+        "id": "maths__state__11",
+        "name": "Mathematics \u00b7 Class 11 \u00b7 Maharashtra State Board",
+        "subject": "maths",
+        "board": "state",
+        "standard": 11
+      },
+      {
+        "id": "maths__state__12",
+        "name": "Mathematics \u00b7 Class 12 \u00b7 Maharashtra State Board",
+        "subject": "maths",
+        "board": "state",
+        "standard": 12
+      }
+    ],
+    "current": "python"
+  },
+  "quiz_questions": {
+    "q_ret_1": {
+      "id": "q_ret_1",
+      "concept": "return_values",
+      "difficulty": "easy",
+      "text": "What is the output? `def f():\n    print('Hello')\nx = f()\nprint(x)`",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hello then Hello"
+        },
+        {
+          "id": "b",
+          "text": "Hello then None"
+        },
+        {
+          "id": "c",
+          "text": "Hello"
+        },
+        {
+          "id": "d",
+          "text": "None then None"
+        }
+      ]
+    },
+    "q_ret_2": {
+      "id": "q_ret_2",
+      "concept": "return_values",
+      "difficulty": "medium",
+      "text": "What does `x` hold? `def total(a, b):\n    print(a + b)\nx = total(2, 3)`",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "None"
+        },
+        {
+          "id": "c",
+          "text": "'5'"
+        },
+        {
+          "id": "d",
+          "text": "Error"
+        }
+      ]
+    },
+    "q_ret_4": {
+      "id": "q_ret_4",
+      "concept": "return_values",
+      "difficulty": "hard",
+      "text": "What prints? `def f():\n    return 1\n    print('done')\nprint(f())`",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "1 then done"
+        },
+        {
+          "id": "c",
+          "text": "done"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ]
+    },
+    "q_ret_3": {
+      "id": "q_ret_3",
+      "concept": "return_values",
+      "difficulty": "medium",
+      "text": "Which function correctly gives back a value you can store?",
+      "options": [
+        {
+          "id": "a",
+          "text": "def f(): print(10)"
+        },
+        {
+          "id": "b",
+          "text": "def f(): return 10"
+        },
+        {
+          "id": "c",
+          "text": "def f(): 10"
+        },
+        {
+          "id": "d",
+          "text": "def f(): out 10"
+        }
+      ]
+    }
+  },
+  "teacher_overview": {
+    "student_count": 10,
+    "class_average": 55,
+    "students": [
+      {
+        "name": "Janhvi Anavkar",
+        "overall": 35,
+        "weakest": "Light \u2013 Reflection & Refraction",
+        "struggling": 2
+      },
+      {
+        "name": "Sara Khan",
+        "overall": 51,
+        "weakest": "Lambda",
+        "struggling": 11
+      },
+      {
+        "name": "Isha Deshmukh",
+        "overall": 52,
+        "weakest": "Object-Oriented Programming",
+        "struggling": 11
+      },
+      {
+        "name": "Diya Patel",
+        "overall": 54,
+        "weakest": "Object-Oriented Programming",
+        "struggling": 11
+      },
+      {
+        "name": "Sachin",
+        "overall": 62,
+        "weakest": "Recursion",
+        "struggling": 7
+      },
+      {
+        "name": "Kabir Singh",
+        "overall": 63,
+        "weakest": "Object-Oriented Programming",
+        "struggling": 10
+      },
+      {
+        "name": "Aarav Sharma",
+        "overall": 66,
+        "weakest": "Recursion",
+        "struggling": 7
+      },
+      {
+        "name": "Rohan Mehta",
+        "overall": 74,
+        "weakest": "Object-Oriented Programming",
+        "struggling": 5
+      },
+      {
+        "name": "Ananya Rao",
+        "overall": 76,
+        "weakest": "Object-Oriented Programming",
+        "struggling": 4
+      },
+      {
+        "name": "Vivaan Joshi",
+        "overall": 76,
+        "weakest": "Recursion",
+        "struggling": 6
+      }
+    ],
+    "most_struggled": [
+      {
+        "concept": "oop",
+        "name": "Object-Oriented Programming",
+        "subject": "python",
+        "avg": 24,
+        "struggling": 9,
+        "count": 9
+      },
+      {
+        "concept": "recursion",
+        "name": "Recursion",
+        "subject": "python",
+        "avg": 28,
+        "struggling": 9,
+        "count": 9
+      },
+      {
+        "concept": "lambda",
+        "name": "Lambda",
+        "subject": "python",
+        "avg": 31,
+        "struggling": 9,
+        "count": 9
+      },
+      {
+        "concept": "return_values",
+        "name": "Return Values",
+        "subject": "python",
+        "avg": 41,
+        "struggling": 8,
+        "count": 10
+      },
+      {
+        "concept": "maths__cbse__10__quadratic",
+        "name": "Quadratic Equations",
+        "subject": "maths",
+        "avg": 42,
+        "struggling": 9,
+        "count": 9
+      },
+      {
+        "concept": "physics__cbse__10__electricity",
+        "name": "Electricity",
+        "subject": "physics",
+        "avg": 46,
+        "struggling": 8,
+        "count": 9
+      },
+      {
+        "concept": "functions",
+        "name": "Functions",
+        "subject": "python",
+        "avg": 56,
+        "struggling": 5,
+        "count": 9
+      },
+      {
+        "concept": "tuples",
+        "name": "Tuples",
+        "subject": "python",
+        "avg": 61,
+        "struggling": 4,
+        "count": 9
+      }
+    ],
+    "subject_averages": [
+      {
+        "subject": "python",
+        "avg": 65
+      },
+      {
+        "subject": "maths",
+        "avg": 58
+      },
+      {
+        "subject": "physics",
+        "avg": 55
+      }
+    ],
+    "subjects": [
+      {
+        "id": "python",
+        "name": "Python Programming",
+        "icon": "Code2",
+        "has_levels": false
+      },
+      {
+        "id": "physics",
+        "name": "Physics",
+        "icon": "Atom",
+        "has_levels": true
+      },
+      {
+        "id": "chemistry",
+        "name": "Chemistry",
+        "icon": "FlaskConical",
+        "has_levels": true
+      },
+      {
+        "id": "maths",
+        "name": "Mathematics",
+        "icon": "Sigma",
+        "has_levels": true
+      }
+    ]
+  }
+}
