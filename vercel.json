@@ -1,6 +1,6 @@
 {
-  "buildCommand": "if [ -f frontend/package.json ]; then npm run build --prefix frontend; else npm run build; fi",
-  "installCommand": "if [ -f frontend/package-lock.json ]; then npm ci --prefix frontend; else npm ci; fi",
+  "buildCommand": "npm run build --prefix frontend",
+  "installCommand": "npm ci --prefix frontend",
   "outputDirectory": "frontend/dist",
   "rewrites": [
     {
