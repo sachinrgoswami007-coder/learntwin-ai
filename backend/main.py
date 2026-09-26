@@ -11,10 +11,19 @@ from fastapi import FastAPI, Header, HTTPException, Depends, UploadFile, File, F
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-SECRET_KEY = os.environ.get("LEARNTWIN_SECRET_KEY") or secrets.token_urlsafe(32)
+SECRET_KEY = os.environ.get("LEARNTWIN_SECRET_KEY")
+if not SECRET_KEY:
+    if os.environ.get("VERCEL"):
+        raise RuntimeError("Set LEARNTWIN_SECRET_KEY in the Vercel project environment.")
+    SECRET_KEY = secrets.token_urlsafe(32)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SEED_PATH = os.path.join(BASE_DIR, "seed_data.json")
-DB_PATH = os.path.join(BASE_DIR, "db.json")
+DB_PATH = os.environ.get(
+    "LEARNTWIN_DB_PATH",
+    os.path.join("/tmp", "learntwin-db.json")
+    if os.environ.get("VERCEL")
+    else os.path.join(BASE_DIR, "db.json"),
+)
 
 # ----------------- JWT Helpers (Pure Python) -----------------
 def b64_encode(data: bytes) -> str:
