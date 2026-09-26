@@ -1,1 +1,4 @@
--r backend/requirements.txt
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
